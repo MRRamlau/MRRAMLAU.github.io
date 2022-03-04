@@ -688,6 +688,9 @@ body {
 a {
   transition: color 0.6s;
 }
+.cid-sWsXMATbWP {
+  background-image: url("../../../assets/images/hnet-image-2.gif");
+}
 .cid-sWsXMATbWP .icon-wrapper {
   margin: auto;
   background-color: #6592e6;
@@ -748,6 +751,8 @@ a {
   color: #fff;
 }
 .cid-s48MCQYojq {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
   background-image: url("../../../assets/images/pexels-milica-popovic-1573919-2000x2967.jpg");
 }
 .cid-s48MCQYojq .mbr-section-title {
@@ -767,9 +772,12 @@ a {
   }
 }
 .cid-sYi4DgfyB3 {
-  padding-top: 0rem;
-  padding-bottom: 4rem;
+  padding-top: 4rem;
+  padding-bottom: 6rem;
   background-image: url("../../../assets/images/greyt.work-logo-outline-black.svg");
+}
+.cid-sYgQTJuVNG {
+  background-image: url("../../../assets/images/hnet-image-3.gif");
 }
 .cid-sYgQTJuVNG .icon-wrapper {
   margin: auto;
@@ -833,6 +841,9 @@ a {
 .cid-sYgQTJuVNG H1 {
   color: #ffffff;
 }
+.cid-sYgR4MkvkS {
+  background-image: url("../../../assets/images/hnet-image.gif");
+}
 .cid-sYgR4MkvkS .icon-wrapper {
   margin: auto;
   background-color: #000000;
@@ -894,6 +905,9 @@ a {
 }
 .cid-sYgR4MkvkS H1 {
   color: #ffffff;
+}
+.cid-sYh8vl6maL {
+  background-image: url("../../../assets/images/hnet-image-4.gif");
 }
 .cid-sYh8vl6maL .icon-wrapper {
   margin: auto;
@@ -958,13 +972,13 @@ a {
   color: #ffffff;
 }
 .cid-sYh8Pi9scP {
-  padding-top: 2rem;
+  padding-top: 5rem;
   padding-bottom: 4rem;
   background-image: url("../../../assets/images/greyt.work-logo-outline-black.svg");
 }
 .cid-sWsWgYBTSu {
-  padding-top: 0rem;
-  padding-bottom: 0rem;
+  padding-top: 5rem;
+  padding-bottom: 8rem;
   background-color: #ffffff;
 }
 .cid-sWsWgYBTSu .card:not(:nth-last-child(1)) {
@@ -1026,7 +1040,7 @@ a {
 }
 .cid-sYiIPaGKMA {
   padding-top: 1rem;
-  padding-bottom: 5rem;
+  padding-bottom: 8rem;
   background-color: #fff0b0;
 }
 @media (min-width: 1500px) {
