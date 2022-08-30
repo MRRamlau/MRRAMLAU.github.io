@@ -914,27 +914,6 @@ a {
 .cid-tfYMZKZEhn H1 {
   color: #ffffff;
 }
-.cid-sYiRKtw7iS {
-  padding-top: 1rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
-}
-.cid-sYiRKtw7iS img {
-  width: 120px;
-  margin: auto;
-}
-.cid-sYiRKtw7iS .card {
-  transition: all 0.3s;
-  height: fit-content;
-  padding: 1rem 0;
-  opacity: 0.7;
-  margin-bottom: 1rem;
-}
-@media (min-width: 992px) {
-  .cid-sYiRKtw7iS .card {
-    max-width: 12.5%;
-  }
-}
 .cid-t9inVjWImg {
   padding-top: 0rem;
   padding-bottom: 0rem;
